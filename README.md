@@ -1,4 +1,4 @@
-This is a portifoil project maked in NextJs, ReactJs and TailwindCss using uso library like AceternityUI, React-Icons... Sentry for the monitoring page flows and so much more !
+This is a portifoil project maked in NextJs, ReactJs and TailwindCss using uso library like AceternityUI, React-Icons and so much more !
 
 If you like it, feel free to download and modify it.
 
